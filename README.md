@@ -4,7 +4,7 @@ A framework for adding (or replacing) field bgm to Persona 4 Golden with conditi
 
 ## Features
 
-- Replace or enhance existing field BGM
+- Replace or add new field BGM
 - Conditional playback using game data:
   - Field locations (Major/Minor IDs)
   - Dungeon floors
